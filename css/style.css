@@ -37,15 +37,29 @@
 }
 /*MAIN HERO*/
 .hero-image {
-    height: 500px;
+    height: 700px;
     width: 100%;
     background:url(../img/bg-banner-home.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .main-hero {
-
-
+    color: #fff;
+}
+.main-hero p {
+    color: rgba(187, 205, 255, 1);
+}
+/*FORM*/
+.bg-w {
+    height: 400px;
+    padding: 20px;
+    background: #fff;
+}
+.bg-w h2 {
+    font-weight: 600;
+    color: #000;
+}
+.bg-w .h2-blue {
+    color: #006aff;
 }
