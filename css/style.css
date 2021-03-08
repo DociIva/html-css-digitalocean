@@ -5,14 +5,15 @@
     color: #3a8aff;
 }
 .navbar-bl img {
-    width: 200px;
+    width: 150px;
 }
 .navbar-bl .menu {
-    font-size: 35px;
+    font-size: 20px;
+    line-height: 1.6;
 }
 .liste-inline,  .ul-cl{
-   margin-top: 10px;
-
+   margin-top: 5px;
+   margin-bottom: 0;
 }
 /*LISTE*/
 .liste-inline li {  /*da mettere ul*/
@@ -20,7 +21,14 @@
     list-style: none;
 }
 .liste-inline li a{
-    font-size: 18px;
+    font-weight: 600;
     text-decoration: none; 
+    padding-left: 10px;
     color: #031c4e; 
+}
+.liste-inline .bot {
+    border: 1px solid #006aff;
+    color: #006aff;
+    border-radius: 5px;
+    padding: 5px;
 }
