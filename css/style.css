@@ -1,0 +1,26 @@
+
+/*NAVBAR*/
+.navbar-bl {
+    margin-top: 20px;
+    color: #3a8aff;
+}
+.navbar-bl img {
+    width: 200px;
+}
+.navbar-bl .menu {
+    font-size: 35px;
+}
+.liste-inline,  .ul-cl{
+   margin-top: 10px;
+
+}
+/*LISTE*/
+.liste-inline li {  /*da mettere ul*/
+    display: inline-block;
+    list-style: none;
+}
+.liste-inline li a{
+    font-size: 18px;
+    text-decoration: none; 
+    color: #031c4e; 
+}
