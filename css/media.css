@@ -6,6 +6,13 @@
     .main .he-p {
         font-size: 14px;
     }
+    
+    .icons .liste-inline .calc {
+        width: calc(96% / 6);
+    }
+    .image img {
+        width: 100px;
+    }
 
 }
 
@@ -26,7 +33,9 @@
     .main-hero .bottone {
         font-size: 14px;
     }
-    
+    .image img {
+        width: 130px;
+    }
     
 
 } 

@@ -101,11 +101,8 @@
     color: #6f7b97;
     margin-top: 30px;
 }
-.image {
-    width: 100%;
-}
-.icons .image img {
-    width: 150px;
+.image img {
+    width: 130px;
 }
 .icons .liste-inline .calc {
     width: calc((100% / 2 ) - 10px); 
