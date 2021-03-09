@@ -37,7 +37,7 @@
 }
 /*MAIN HERO*/
 .hero-image {
-    height: 700px;
+    height: 750px;
     width: 100%;
     background:url(../img/bg-banner-home.jpg);
     background-position: center;
@@ -84,9 +84,21 @@
     background: #fff;
     color: #626262;
     border: 1px solid white;
-    box-shadow: 1px 2px #dadada; 
+    box-shadow: 1px 2px #dadada;
+    position: relative;
 }
-.main-hero img {
-    width: 20px;  
+.hero-image.liste-inline li a{
+    width: 100%;
+    font-weight: 600;
+    text-decoration: none; 
+    padding-left: 10px;
+    color: #031c4e; 
 }
-
+.hero-image img {
+    width: 20px; 
+    position: absolute; 
+    left: 3%; 
+}
+.bottone.bottone-wi, .scrit  {
+    padding-right: 30px;
+}
