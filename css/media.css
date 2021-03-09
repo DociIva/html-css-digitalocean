@@ -13,6 +13,10 @@
     .image img {
         width: 100px;
     }
+    /*deploy*/
+    .title-text p {
+        font-size: 18px;
+    }
 
 }
 
@@ -36,6 +40,9 @@
     .image img {
         width: 130px;
     }
-    
+    /*deploy*/
+    .title-text p {
+        font-size: 20px;
+    }
 
 } 
