@@ -122,3 +122,28 @@
 .title-text p {
     color: #5c6a88;
 }
+.bottone-dep {
+    list-style: none;
+    text-decoration: none;
+    line-height: 3;
+    min-width: 100px;
+    padding: 10px;  
+    background: #fff;
+    border-left: 2px solid #ccc;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.bottone-dep a {
+    padding-bottom: 20px;
+    color: #75809a;
+}
+.foto {
+    margin-top: 20px;
+}
+.foto h4 {
+    font-weight: 600;
+    color: #142b58;
+}
+.foto p {
+    color: #5c6a88;
+}
