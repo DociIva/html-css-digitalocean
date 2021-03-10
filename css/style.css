@@ -298,3 +298,8 @@
     border: 1px solid white;
     box-shadow: 1px 2px #dadada;
 }
+.footer {
+    height: 700px;
+    background: #031c4e;
+    color: #fff;
+}
