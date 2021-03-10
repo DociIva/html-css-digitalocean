@@ -23,7 +23,26 @@
     .bottone-dep  {
         margin-top: 40px;
     }
-    
+    .segni::before {
+        content: ' \f104 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #717c98;
+        position: absolute;
+        top: 55%;
+        left: 14%;
+    }
+    .segni::after {
+        content: ' \f105 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #011d4c;
+        position: absolute;
+        top: 55%;
+        right: 14%;
+    }
 
 }
 
