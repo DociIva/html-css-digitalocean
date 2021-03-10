@@ -216,3 +216,36 @@
     color:#031c4e;
     font-weight: bold;
 }
+.img-col {
+    padding-top: 20px;
+}
+/* SEZIONE SERVICE /BG BLUE*/
+.bg-service {
+    background: linear-gradient( 0deg , #00239d , #0047c5);
+    padding-bottom: 80px;
+}
+.service h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+.table {
+    color: #fff;
+}
+.table .city {
+    color: #b7c7e9;
+}
+.table td {
+    padding-top: 10px;
+    padding-left:40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #fff;
+}
+
+.table td a {
+    color: #00d5d1;
+    margin-left: 30px;
+}
+/*due colonne*/
+.table .prima {
+    margin-bottom: 40px;
+}
