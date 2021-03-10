@@ -116,6 +116,9 @@
     font-weight: 600;
 }
 /*sezione deploy*/
+.deploy {
+    margin-bottom: 40px;
+}
 .title-text h2 {
     color: #031c4e;
 }
@@ -147,4 +150,32 @@
 .foto p {
     color: #5c6a88;
 }
+/* SEZIONE ------ DESIGNED*/
+.designed {
+    height: 600px;
+    background-color: #f3f5f9;
+}
+.designed h2 {
+    font-weight: 600;
+    color:#031c4e;
+}
+.designed p {
+    font-size: 18px;
+    color: #5c6a88;
+}
+.titolo-des {
+    padding-top: 40px;
+}
+/*IMMAGINE DESIGNED*/
 
+.image .desi-img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 60px;
+}
+.designed .img-text {
+    padding-top: 20px;
+    font-size: 12px;
+    color: #142b58;
+}
