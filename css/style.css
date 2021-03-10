@@ -299,7 +299,30 @@
     box-shadow: 1px 2px #dadada;
 }
 .footer {
-    height: 700px;
     background: #031c4e;
     color: #fff;
+    padding-top: 50px;
+}
+.footer h5 {
+    color: #848ea5;
+}
+.footer h6 {
+    color: #4a5a7d;
+}
+.icon {
+    padding:5px;
+    color: #76819a;
+}
+.footer h6 {
+    color: #fff;
+}
+.link-siti {
+    list-style: none;
+    color: #7c87a0;
+}
+.text-left {
+    text-align: left;
+}
+.tit {
+    margin-left: 35px;
 }
