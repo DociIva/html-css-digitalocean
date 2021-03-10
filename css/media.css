@@ -43,6 +43,26 @@
         top: 55%;
         right: 14%;
     }
+    .frecce::before {
+        content: ' \f104 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #717c98;
+        position: absolute;
+        top: 40%;
+        left: 20%;
+    }
+    .frecce::after {
+        content: ' \f105 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #011d4c;
+        position: absolute;
+        top: 40%;
+        right: 20%;
+    }
 
 }
 
@@ -83,6 +103,31 @@
     .cerchi {
         margin-top: 10px;
     }
-
+    /*BOX-ROCKE*/
+    .box-rocke {
+        width: 620px;
+        height: 350px;
+    }
+    .frecce::before {
+        content: ' \f104 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #717c98;
+        position: absolute;
+        top: 40%;
+        left: 15%;
+    }
+    .frecce::after {
+        content: ' \f105 ';
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        font-size: 50px;
+        color: #011d4c;
+        position: absolute;
+        top: 40%;
+        right: 15%;
+    }
+    
 
 } 
